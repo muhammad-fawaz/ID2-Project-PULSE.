@@ -9,11 +9,11 @@ This project was developed during my first year at my university. It serves as a
 - Data Logging: Reliable data storage to SD cards using the SdFat library, with timestamping via an external RTC (DS3231).
 - Communication: Inter-device communication between the sensor-unit and the logger-unit via I2C protocol.
 
-  ## Components
+## Components
 
-  - Microcontrollers: 2x Arduino (or compatible boards).
-  - MAX30105 (Heart Rate & $SpO_2$)
-  - MFRC522 (RFID)
-  - DS3231 (RTC)
-  - SSD1306 (OLED Display)
-  - SD Card Module
+- Microcontrollers: 2x Arduino (or compatible boards).
+- MAX30105 (Heart Rate & $SpO_2$)
+- MFRC522 (RFID)
+- DS3231 (RTC)
+- SSD1306 (OLED Display)
+- SD Card Module
